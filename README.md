@@ -2,6 +2,8 @@
 
 FOR CHECK REPLICATION - https://prior-brush-69461918.figma.site/
 
+GitHub repository - https://github.com/omtecno/Uiflutter_app/tree/main
+
 A complete **Duolingo-inspired onboarding experience** built using **TypeScript**, recreated from scratch for learning and practice purposes.  
 This project focuses on **UI/UX flow, animations, and onboarding logic**, similar to Duolingo, but branded as **TalkPro**.
 
