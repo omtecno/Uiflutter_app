@@ -76,6 +76,8 @@ second - component
 third - style
 packages
 
+GitHub repository -
+
 ## ⚙️ Required Installation (Project Setup)
 
 Before running **TalkPro – Duolingo-Style Onboarding Flow**, make sure the following tools are installed on your system.
