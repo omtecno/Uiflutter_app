@@ -76,7 +76,7 @@ second - component
 third - style
 packages
 
-GitHub repository -
+GitHub repository - https://github.com/omtecno/Uiflutter_app/tree/main
 
 ## ⚙️ Required Installation (Project Setup)
 
