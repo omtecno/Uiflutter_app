@@ -73,3 +73,22 @@ first open -app
 second - component
 third - style
 packages
+
+## ⚙️ Required Installation (Project Setup)
+
+Before running **TalkPro – Duolingo-Style Onboarding Flow**, make sure the following tools are installed on your system.
+
+---
+
+## 🧰 System Requirements
+
+### 1️⃣ Node.js (Required)
+- Version: **Node.js 18+ recommended**
+- Includes **npm** (Node Package Manager)
+
+🔗 Download: https://nodejs.org/
+
+Verify installation:
+```bash
+node -v
+npm -v
